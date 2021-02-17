@@ -53,9 +53,11 @@ Donner un contexte à une fonction. Elargir la portée des données.
 - Y a-t-il plusieurs façons de s'en servir ? 
 This peut s'utiliser dans differents contexte : méthodes, fonctions, seul, évènements. 
 
-Requête
 
-Évènement
+Requête 
+XMLHttpRequest
+Objet de requête. Permet d'obtenir des données au format xlm, json ou html, sans avoir à rafraichir la page. → permet à une page web d'être mise à jour sans perturber le reste du code et les actions de l'utilisateur.
 
-Listener
+fetch()
+Cette méthode permet de faire une requête dont la réponse est une promesse.
 
